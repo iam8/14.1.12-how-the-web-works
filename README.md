@@ -19,6 +19,10 @@ Note: Some exercise questions do not require a response of any kind (e.g. Part F
 
 ## Part Two: Practice Tools
 
+- curl -H "Accept: text/plain" https://icanhazdadjoke.com/search?term=pirate
+- dig icanhazdadjoke.com (results in 2 IP addresses)
+- Completed
+
 ## Part Three: Explore Dev Tools
 
 ## Part Four: Explore the URL API
