@@ -21,7 +21,7 @@ Note: Some exercise questions do not require a response of any kind (e.g. Part F
 
 - curl -H "Accept: text/plain" https://icanhazdadjoke.com/search?term=pirate
 - dig icanhazdadjoke.com (results in 2 IP addresses)
-- Completed
+- Completed. Sample webpage is called sample_webpage.html, and can be reached via localhost:8000 or 127.0.0.1:8000 in the browser.
 
 ## Part Three: Explore Dev Tools
 
