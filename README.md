@@ -25,4 +25,8 @@ Note: Some exercise questions do not require a response of any kind (e.g. Part F
 
 ## Part Three: Explore Dev Tools
 
+- The request and response headers can be viewed under the "Network" upper tab in Chrome DevTools, then clicking on the name of the request we just made, and then under the tab "Headers".
+- After changing the form type to POST, refreshing, and resubmitting, the fields are not visible as a query string in the URL anymore.
+- The form data can be viewed under the "Network" upper tab in Chrome DevTools, then clicking on the name of the request we just made, and then under the tab "Payload".
+
 ## Part Four: Explore the URL API
