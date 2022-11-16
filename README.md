@@ -30,3 +30,5 @@ Note: Some exercise questions do not require a response of any kind (e.g. Part F
 - The form data can be viewed under the "Network" upper tab in Chrome DevTools, then clicking on the name of the request we just made, and then under the tab "Payload".
 
 ## Part Four: Explore the URL API
+
+- Completed in Chrome console. Tried code examples from main URL API page and from page on URL() constructor.
